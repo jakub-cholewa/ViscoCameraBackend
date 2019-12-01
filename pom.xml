@@ -23,9 +23,19 @@
     <dependencies>
         <!-- https://mvnrepository.com/artifact/com.javax0/jscc -->
         <dependency>
-            <groupId>org.scream3r</groupId>
-            <artifactId>jssc</artifactId>
-            <version>2.8.0</version>
+            <groupId>agh</groupId>
+            <artifactId>visca</artifactId>
+            <version>1</version>
+            <scope>system</scope>
+            <systemPath>/home/molion/Desktop/VII/multimedia/lab8/kuba/ViscoCameraBackend/libs/visca.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>agh</groupId>
+            <artifactId>visca2</artifactId>
+            <version>1</version>
+            <scope>system</scope>
+            <systemPath>/home/molion/Desktop/VII/multimedia/lab8/kuba/ViscoCameraBackend/libs/visca_lib/jssc.jar
+            </systemPath>
         </dependency>
 
     </dependencies>
